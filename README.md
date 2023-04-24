@@ -1,12 +1,11 @@
 # Clarity | E-commerce react app
 Simple ecommerce react js app with firebase [typescript].
-![Firebase Deploy](https://github.com/davidbiton33/Glasses-Shop/workflows/Firebase%20Deploy/badge.svg)
 
 ### [Live demo](https://the-shop-glasses.surge.sh/)
 
-![Clarity screenshot](https://raw.githubusercontent.com/davidbiton33/Glasses-Shop/master/static/screeny1.png)
-![Clarity screenshot](https://raw.githubusercontent.com/davidbiton33/Glasses-Shop/master/static/screeny2.png)
-![Clarity screenshot](https://raw.githubusercontent.com/davidbiton33/Glasses-Shop/master/static/screeny3.png)
+![Clarity screenshot](https://raw.githubusercontent.com/davidbiton33/Glasses-Shop/blob/master/static/screeny1.png)
+![Clarity screenshot](https://raw.githubusercontent.com/davidbiton33/Glasses-Shop/blob/master/static/screeny2.png)
+![Clarity screenshot](https://raw.githubusercontent.com/davidbiton33/Glasses-Shop/blob/master/static/screeny3.png)
 
 ## Run Locally
 ### 1. Install Dependencies
